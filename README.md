@@ -16,7 +16,7 @@ An interactive Android quiz app built with Kotlin, allowing users to practice co
 
 ## Demo
 
-▶ [Click here to watch the demo](media/demo.mp4)
+ [Click here to watch the demo](media/demo.mp4)
 
 
 ---
