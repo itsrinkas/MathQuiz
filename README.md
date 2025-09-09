@@ -38,4 +38,4 @@ An interactive Android quiz app built with Kotlin, allowing users to practice ad
 ---
 
 Built as a final project for Mobile App Development at the University of Limerick.
->>>>>>> f042dd9278466d76a7bf1236e884d2e97f0161e4
+
